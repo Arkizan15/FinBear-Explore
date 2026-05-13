@@ -1,0 +1,477 @@
+{
+  "users": [
+    {
+      "id": "1775197962382",
+      "username": "popo",
+      "password": "$2b$10$m7N88V15/6TxR28z7GshQ.P5X6N2Hia51IShGxKuUcIHSo3ZE7LA6",
+      "points": 0,
+      "createdAt": "2026-04-03T06:32:42.382Z"
+    },
+    {
+      "id": "1775274748255",
+      "username": "user",
+      "password": "$2b$10$k9nh7HAJ05MvnGn9.SDj9.RFjSqLcsZe9tCHjiqWRFH6qGRb2pR9C",
+      "points": 105,
+      "createdAt": "2026-04-04T03:52:28.255Z"
+    },
+    {
+      "id": "1775357664854",
+      "username": "loremipsum",
+      "password": "$2b$10$lYYBu2Wpablr2CaQXkw7FuZQxPxcTt6wULbea7fID1CLNvDOtbyju",
+      "points": 85,
+      "createdAt": "2026-04-05T02:54:24.854Z"
+    },
+    {
+      "id": "1775658429506",
+      "username": "aldis burger",
+      "password": "$2b$10$udl7pWCrSUwuDaVo2hJsOexRffCvktWgC.GVWH/EN1iEwESOXjHOC",
+      "points": 85,
+      "createdAt": "2026-04-08T14:27:09.506Z"
+    },
+    {
+      "id": "1775910867696",
+      "username": "charly burger",
+      "password": "$2b$10$g2miAr5Jx0Y3WRBk5.wm9eXJZpWCI68//QAPK3XQ4KraFBzmSRLM6",
+      "points": 100,
+      "createdAt": "2026-04-11T12:34:27.696Z"
+    },
+    {
+      "id": "1775922490441",
+      "username": "bakso",
+      "password": "$2b$10$E6L4JyDmyHaZV.X0t8j3KulBF5fyp.lbw30rQQC4QJNDRoActJIBm",
+      "points": 100,
+      "createdAt": "2026-04-11T15:48:10.441Z"
+    },
+    {
+      "id": "1775964639840",
+      "username": "rusdi",
+      "password": "$2b$10$y7tqn0OD05KiBUzbEbHNvegnLlRi8z6haUmSupXULZuWOgDSmVPD.",
+      "points": 35,
+      "createdAt": "2026-04-12T03:30:39.840Z"
+    },
+    {
+      "id": "1775965865858",
+      "username": "ilham",
+      "password": "$2b$10$7i5nOtI9Qu79Chp3wOstn.hZlEGdety.TyH2K6uXQp91Gz.8NhelW",
+      "points": 85,
+      "createdAt": "2026-04-12T03:51:05.858Z"
+    },
+    {
+      "id": "1777269160894",
+      "username": "arkan",
+      "password": "$2b$10$71BtpMcqa1XxhF1wYzzdtOck0FQjRloArt4ezC.8RhXoLVLmV5e4i",
+      "points": 35,
+      "createdAt": "2026-04-27T05:52:40.894Z"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "title": "Dasar-dasar keuangan",
+      "description": "Penghasilan, tabungan, dan investasi",
+      "points": 35,
+      "slides": [
+        {
+          "slidenumber": 1,
+          "title": "Selamat datang di Bab 1: Penghasilan, Tabungan, dan Investasi 💡",
+          "content": "Pada bab ini, kamu akan mempelajari dasar penting dalam keuangan,\n yaitu bagaimana mendapatkan penghasilan, menyimpan uang melalui tabungan, \n dan mengembangkannya lewat investasi.Ketiga hal ini merupakan langkah awal untuk \n mengelola keuangan dengan lebih bijak dan terarah.Dengan memahaminya, kamu bisa mulai \n membangun kebiasaan finansial yang baik sejak dini. Materi disusun secara sederhana agar mudah \n dipahami,jadi kamu bisa belajar dengan santai. \n tetap semangat ya dalam belajar dan jangan lupa menyimak setiap bagian dengan baik! \n Di sesi berikutnya akan ada kuis seru yang bisa kamu ikuti untuk mendapatkan poin \n dan meningkatkan level beruangmu 🐻✨ \n\nYuk mulai dan pelajari dasar keuanganmu sekarang!"
+        },
+        {
+          "slidenumber": 2,
+          "title": "💰 Materi: Penghasilan (Income)",
+          "content": "📌 1. Pengertian Penghasilan\n Penghasilan adalah uang atau nilai yang diperoleh seseorang\n dari suatu aktivitas dalam periode tertentu. seperti (harian, mingguan, atau bulanan). \n 👉 Contoh: \n • Gaji dari kerja \n • Uang jajan dari orang tua \n • Keuntungan jualan"
+        },
+        {
+          "slidenumber": 3,
+          "title": "📊 2. Jenis-Jenis Penghasilan",
+          "content": "1. Active Income (Penghasilan Aktif) \n Penghasilan yang didapat dari bekerja langsung. \n ✅ Contoh: \n • Gaji karyawan \n • Upah harian \n • Fee freelance \n 📌 Ciri: \n • Harus kerja dulu baru dapat uang \n • Kalau berhenti kerja → penghasilan berhenti"
+        },
+        {
+          "slidenumber": 4,
+          "title": "Passive Income",
+          "content": "2. Passive Income (Penghasilan Pasif) \n Penghasilan yang tetap masuk tanpa \n harus bekerja terus-menerus. \n ✅ Contoh: \n • Sewa rumah \n • Dividen saham \n • Bisnis yang sudah berjalan otomatis \n 📌 Ciri: \n • Tidak perlu kerja setiap waktu \n • Bisa tetap dapat uang walau lagi istirahat"
+        },
+        {
+          "slidenumber": 5,
+          "title": "Portfolio Income",
+          "content": "3. Portfolio Income \n Penghasilan dari investasi atau aset keuangan \n ✅ Contoh: \n • Keuntungan saham \n • obligasi \n • Reksa dana"
+        },
+        {
+          "slidenumber": 6,
+          "title": "Tabungan",
+          "content": "Tabungan adalah simpanan uang yang berasal dari pendapatan yang disisihkan, \n bertujuan untuk kebutuhan masa depan, dana darurat, \n atau tujuan keuangan tertentu, dan umumnya dapat diambil sewaktu-waktu."
+        },
+        {
+          "slidenumber": 7,
+          "title": "Manfaat Tabungan",
+          "content": "• Tabungan memberikan perlindungan finansial dalam situasi darurat. \n • Membantu merencanakan masa depan dengan lebih baik \n • Memberikan rasa aman dan terhindar dari kecemasan tentang uang."
+        },
+        {
+          "slidenumber": 8,
+          "title": "Investasi",
+          "content": "Investasi adalah kegiatan menanamkan modal atau aset ke dalam suatu instrumen dengan harapan mendapatkan keuntungan di masa depan. Tujuan utama dari investasi adalah untuk mendapatkan keuntungan (return) dari dana yang diinvestasikan, baik dalam bentuk bunga, dividen, maupun apresiasi nilai aset."
+        },
+        {
+          "slidenumber": 9,
+          "title": "Manfaat Utama Investasi",
+          "content": "• Melawan Inflasi \n • Meningkatkan Nilai Kekayaan \n • Menciptakan Pendapatan Pasif \n • Mempersiapkan Masa Depan \n "
+        },
+        {
+          "slidenumber": 10,
+          "title": "Jenis-jenis Investasi",
+          "content": "• Investasi Emas \n Contoh: emas batangan, logam mulia \n Ciri: relatif aman dan stabil \n\n • Investasi Properti \n Contoh: rumah, tanah, kos-kosan \n Ciri: nilai cenderung naik setiap tahun \n\n • Investasi Saham \n Membeli kepemilikan perusahaan \n Keuntungan dari kenaikan harga & dividen"
+        },
+        {
+          "slidenumber": 11,
+          "title": "Jenis-jenis Investasi",
+          "content": "• Investasi Reksa Dana \n Dana dikelola oleh manajer investasi \n Cocok untuk pemula \n\n • Investasi Deposito\n Menyimpan uang di bank dalam jangka waktu tertentu \n Bunga tetap, risiko rendah \n\n • Investasi Obligasi \n Surat utang dari pemerintah/perusahaan \n Dapat bunga (kupon) secara berkala"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Anggaran Bulanan",
+      "description": "Cara membuat dan memantau anggaran",
+      "points": 35,
+      "slides": [
+        {
+          "slidenumber": 1,
+          "title": "Selamat datang di Bab 2: Anggaran Bulanan 📒",
+          "content": "Di bab ini, kamu akan belajar cara membuat dan memantau anggaran bulanan.\nAnggaran adalah rencana keuangan yang membantu kamu mengatur pemasukan dan pengeluaran.\nDengan memahami anggaran, kamu bisa lebih bijak dalam mengelola uang.\n\nYuk mulai belajar!"
+        },
+        {
+          "slidenumber": 2,
+          "title": "💰 Apa itu Anggaran?",
+          "content": "Anggaran adalah rencana penggunaan uang dalam periode tertentu.\n📌 Fungsi anggaran:\n• Mengontrol pengeluaran\n• Menghindari pemborosan\n• Membantu mencapai tujuan keuangan"
+        },
+        {
+          "slidenumber": 3,
+          "title": "📊 Jenis-Jenis Anggaran",
+          "content": "1. Anggaran Kebutuhan Pokok\n• Makanan\n• Transportasi\n• Pendidikan\n\n2. Anggaran Keinginan\n• Hiburan\n• Belanja\n• Jajan\n\n3. Anggaran Tabungan\n• Dana darurat\n• Investasi"
+        },
+        {
+          "slidenumber": 4,
+          "title": "📝 Cara Membuat Anggaran",
+          "content": "1. Catat semua pemasukan\n2. Buat daftar pengeluaran rutin\n3. Pisahkan kebutuhan dan keinginan\n4. Sisihkan untuk tabungan dulu\n5. Pantau pengeluaran setiap hari"
+        },
+        {
+          "slidenumber": 5,
+          "title": "💡 Tips Mengelola Anggaran",
+          "content": "✅ Pakai aturan 50/30/20:\n• 50% untuk kebutuhan pokok\n• 30% untuk keinginan\n• 20% untuk tabungan\n\n📌 Contoh:\nUang jajan Rp 500.000\n• Kebutuhan: Rp 250.000\n• Keinginan: Rp 150.000\n• Tabungan: Rp 100.000"
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "moduleId": 1,
+      "title": "Kuis Dasar-dasar keuangan",
+      "points": 15,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Apa yang dimaksud dengan penghasilan?",
+          "options": [
+            "Uang yang dikeluarkan untuk belanja",
+            "Uang yang diperoleh dari suatu aktivitas",
+            "Uang yang disimpan di bank",
+            "Uang yang dipinjam"
+          ],
+          "answer": 1
+        },
+        {
+          "id": 2,
+          "question": "Contoh dari active income adalah...",
+          "options": [
+            "Dividen saham",
+            "Sewa rumah",
+            "Gaji karyawan",
+            "Keuntungan reksa dana"
+          ],
+          "answer": 2
+        },
+        {
+          "id": 3,
+          "question": "Apa tujuan utama dari menabung?",
+          "options": [
+            "Untuk membeli barang mewah",
+            "Untuk kebutuhan masa depan dan dana darurat",
+            "Untuk dipinjamkan ke orang lain",
+            "Untuk membayar hutang"
+          ],
+          "answer": 1
+        },
+        {
+          "id": 4,
+          "question": "Yang termasuk passive income adalah...",
+          "options": [
+            "Gaji bulanan",
+            "Upah harian",
+            "Fee freelance",
+            "Dividen saham"
+          ],
+          "answer": 3
+        },
+        {
+          "id": 5,
+          "question": "Contoh dari portfolio income adalah...",
+          "options": [
+            "Uang jajan",
+            "Gaji kerja",
+            "Keuntungan saham",
+            "Sewa kos"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "moduleId": 2,
+      "title": "Kuis Anggaran Bulanan",
+      "points": 15,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Apa yang dimaksud dengan anggaran?",
+          "options": [
+            "Uang yang dipinjam",
+            "Rencana penggunaan uang dalam periode tertentu",
+            "Uang yang dihabiskan",
+            "Uang yang disimpan di bank"
+          ],
+          "answer": 1
+        },
+        {
+          "id": 2,
+          "question": "Berapa persen untuk kebutuhan pokok dalam aturan 50/30/20?",
+          "options": [
+            "20%",
+            "30%",
+            "50%",
+            "70%"
+          ],
+          "answer": 2
+        },
+        {
+          "id": 3,
+          "question": "Apa fungsi utama dari anggaran?",
+          "options": [
+            "Untuk meminjam uang",
+            "Untuk mengontrol pengeluaran",
+            "Untuk membeli barang mewah",
+            "Untuk menghindari menabung"
+          ],
+          "answer": 1
+        },
+        {
+          "id": 4,
+          "question": "Dalam aturan 50/30/20, berapa persen untuk tabungan?",
+          "options": [
+            "50%",
+            "30%",
+            "10%",
+            "20%"
+          ],
+          "answer": 3
+        },
+        {
+          "id": 5,
+          "question": "Langkah pertama dalam membuat anggaran adalah...",
+          "options": [
+            "Belanja kebutuhan",
+            "Catat semua pemasukan",
+            "Sisihkan tabungan",
+            "Buat daftar keinginan"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "achievements": [],
+  "userProgress": [
+    {
+      "userId": "1775357664854",
+      "moduleId": 1,
+      "claimedAt": "2026-04-11T03:52:02.197Z"
+    },
+    {
+      "userId": "1775658429506",
+      "moduleId": 1,
+      "claimedAt": "2026-04-11T03:54:37.739Z"
+    },
+    {
+      "userId": "1775910867696",
+      "moduleId": 1,
+      "claimedAt": "2026-04-11T12:48:48.648Z"
+    },
+    {
+      "userId": "1775357664854",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-11T13:37:54.831Z"
+    },
+    {
+      "userId": "1775910867696",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-11T15:36:54.331Z"
+    },
+    {
+      "userId": "1775910867696",
+      "moduleId": 2,
+      "claimedAt": "2026-04-11T15:37:18.291Z"
+    },
+    {
+      "userId": "1775910867696",
+      "moduleId": "quiz_2",
+      "claimedAt": "2026-04-11T15:37:43.291Z"
+    },
+    {
+      "userId": "1775658429506",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-11T15:46:34.625Z"
+    },
+    {
+      "userId": "1775658429506",
+      "moduleId": 2,
+      "claimedAt": "2026-04-11T15:46:41.155Z"
+    },
+    {
+      "userId": "1775922490441",
+      "moduleId": 1,
+      "claimedAt": "2026-04-11T15:48:44.908Z"
+    },
+    {
+      "userId": "1775922490441",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-11T15:49:07.772Z"
+    },
+    {
+      "userId": "1775922490441",
+      "moduleId": 2,
+      "claimedAt": "2026-04-11T15:49:22.392Z"
+    },
+    {
+      "userId": "1775922490441",
+      "moduleId": "quiz_2",
+      "claimedAt": "2026-04-11T15:53:27.225Z"
+    },
+    {
+      "userId": "1775926376335",
+      "moduleId": 1,
+      "claimedAt": "2026-04-11T17:01:55.138Z"
+    },
+    {
+      "userId": "1775926376335",
+      "moduleId": 2,
+      "claimedAt": "2026-04-11T17:02:03.746Z"
+    },
+    {
+      "userId": "1775926376335",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-11T17:02:12.986Z"
+    },
+    {
+      "userId": "1775926376335",
+      "moduleId": "quiz_2",
+      "claimedAt": "2026-04-11T17:02:29.514Z"
+    },
+    {
+      "userId": "1775964639840",
+      "moduleId": 1,
+      "claimedAt": "2026-04-12T03:40:21.905Z"
+    },
+    {
+      "userId": "1775357664854",
+      "moduleId": 2,
+      "claimedAt": "2026-04-12T03:40:42.286Z"
+    },
+    {
+      "userId": "1775965865858",
+      "moduleId": 1,
+      "claimedAt": "2026-04-12T03:59:53.145Z"
+    },
+    {
+      "userId": "1775965865858",
+      "moduleId": 2,
+      "claimedAt": "2026-04-12T03:59:59.410Z"
+    },
+    {
+      "userId": "1775965865858",
+      "moduleId": "quiz_1",
+      "claimedAt": "2026-04-12T04:00:07.896Z"
+    },
+    {
+      "userId": "1777269160894",
+      "moduleId": 1,
+      "claimedAt": "2026-04-27T05:58:54.096Z"
+    }
+  ],
+  "userAchievements": [],
+  "transactions": [
+    {
+      "id": "1775279601423",
+      "userId": "1775274748255",
+      "type": "income",
+      "amount": 35000,
+      "category": "uang jajan",
+      "description": "uang jajan sekolah",
+      "createdAt": "2026-04-04T05:13:21.423Z"
+    },
+    {
+      "id": "1775889283900",
+      "userId": "1775658429506",
+      "type": "income",
+      "amount": 10000,
+      "category": "jajan harian",
+      "description": "",
+      "createdAt": "2026-04-11T06:34:43.900Z"
+    },
+    {
+      "id": "1775966360571",
+      "userId": "1775965865858",
+      "type": "income",
+      "amount": 1000000,
+      "category": "gaji ",
+      "description": "",
+      "createdAt": "2026-04-12T03:59:20.571Z"
+    },
+    {
+      "id": "1775966369507",
+      "userId": "1775965865858",
+      "type": "expense",
+      "amount": 10000,
+      "category": "nasi bungkus",
+      "description": "",
+      "createdAt": "2026-04-12T03:59:29.507Z"
+    },
+    {
+      "id": "1777269177431",
+      "userId": "1777269160894",
+      "type": "income",
+      "amount": 1000000000,
+      "category": "makan",
+      "description": "",
+      "createdAt": "2026-04-27T05:52:57.431Z"
+    },
+    {
+      "id": "1777269398936",
+      "userId": "1777269160894",
+      "type": "expense",
+      "amount": 500000,
+      "category": "kopi makanan rokok",
+      "description": "",
+      "createdAt": "2026-04-27T05:56:38.936Z"
+    },
+    {
+      "id": "1777269485146",
+      "userId": "1777269160894",
+      "type": "income",
+      "amount": 100000000,
+      "category": "gaji Januari",
+      "description": "",
+      "createdAt": "2026-04-27T05:58:05.146Z"
+    }
+  ]
+}
